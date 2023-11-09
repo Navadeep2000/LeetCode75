@@ -5,13 +5,13 @@
 -  Similarly, We can iterate the *previous_pointer* in reverse i.e., from the end, till it reaches the start "*None*" object.
 
 ## Watch this video for the Visual Understanding:
-[https://drive.google.com/file/d/1RojuSGrO11lcgcvnMgRSJMXJn45UMKQR/view?usp=drive_link]()
+[Animated Explanation of Reversing a LinkedList](https://drive.google.com/file/d/1RojuSGrO11lcgcvnMgRSJMXJn45UMKQR/view?usp=drive_link)
  
 # Complexity
 - Time complexity: $$O(n)$$
 
 # Code
-```
+```python
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
